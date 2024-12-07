@@ -111,7 +111,7 @@ body {
     font-size: 1.7rem; }
 
 .story__pictures {
-  background-color: #c69963;
+  /* background-color: $color-primary; */
   grid-column: full-start / col-end 4;
   background-image: linear-gradient(rgba(198, 153, 99, 0.5), rgba(198, 153, 99, 0.5)), url(../img/back.jpg);
   display: grid;
@@ -150,8 +150,15 @@ body {
   margin-bottom: 4rem; }
 
 .homes {
-  background-color: #101d2c;
-  grid-column: center-start / center-end; }
+  /* background-color: $color-secondary; */
+  grid-column: center-start / center-end;
+  margin-top: 15rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  grid-gap: 7rem; }
+
+.home {
+  background-color: #f9f7f6; }
 
 .gallery {
   background-color: #54483A;
