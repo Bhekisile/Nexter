@@ -24,7 +24,8 @@
 # 📖 [Portfolio React] <a name="about-project"></a>
 
 
-**[Nexter]** This project is all about learning grid layout. This showcases the knowledge of how to positioning grid items, naming the grid lines and areas, aligning grid items and tracks. Employing responsive layouts with auto-fill and auto-fit complemented with minmax function. Naming grid template columns and rows using auto, min- and max-content and also  utilizes HTML and a Sass preprocessor for its construction. Throughout this course, I utilized Sass variables, functions, and mixins, which simplify the styling of the application, eliminate the need for dry code, and enable quick changes to style properties. 
+**[Nexter]** This project is all about learning the grid layout in depth. It showcases the knowledge of how to position grid items, name the grid lines and areas, and align grid items and tracks. The minmax function assists in implementing responsive layouts that use auto-fill and auto-fit. The construction of grid template columns and rows using auto, min-, and max-content also involves the use of HTML and a Sass preprocessor. Throughout this course, I utilized Sass variables, functions, and mixins, which simplify the styling of the application, eliminate the need for dry code, and enable quick changes to style properties.
+ 
 
 ## 🛠 Built With <a name="built-with"></a>
 
